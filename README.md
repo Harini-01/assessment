@@ -2,6 +2,9 @@
 
 A modern, responsive chat interface built with React and Tailwind CSS, featuring fluid animations and an intuitive design. This project demonstrates advanced React patterns, state management techniques, and modern UI/UX principles.
 
+## Deployed website
+https://chat-qlgeiiqjh-harinis-projects-d31e144a.vercel.app/
+
 ## 🎯 Core Features
 
 ### Chat Interface
